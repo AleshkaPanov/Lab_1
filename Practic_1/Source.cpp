@@ -29,3 +29,4 @@ int main()
 	std::cout << Ob.GetNick() << ' ' << Ob.GetBreed() << ' ' << Ob.GetAge() << '\n';
 	return 0;
 }
+//здесь был пёсель
